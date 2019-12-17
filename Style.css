@@ -1,0 +1,49 @@
+body {background-color: #036966; width: 800px;}
+
+.assignmentrow {
+	background-color: white;
+	margin: 10%;
+	padding: 20px;
+}
+
+.maintext {
+	color: grey;
+	font-size: 20px;
+	font-weight: 800;
+	width: 70%;
+	background-color: white;
+	display: inline;
+}
+
+.blurbtext {
+	font-family: sans-serif;
+	width: 100px;
+	background-color: white;
+	display: inline;
+	margin: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
